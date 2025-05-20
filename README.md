@@ -1,2 +1,2 @@
 # cajasoft-site
-Website for CajáSoft.
+Website for Cajá Soft.
